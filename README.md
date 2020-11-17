@@ -11,7 +11,7 @@ an application capable of linking smalltalk code in an image and together with a
 Author: Dante R. Giuliano
 
 source:
-https://github.com/VincentBlondeau/Cruiser 
-https://github.com/OpenSmalltalk/opensmalltalk-vm
+- https://github.com/VincentBlondeau/Cruiser 
+- https://github.com/OpenSmalltalk/opensmalltalk-vm
 
 
